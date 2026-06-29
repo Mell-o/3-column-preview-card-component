@@ -55,14 +55,49 @@ body {
     List
    ================= */
 
+a {
+    background-color: white;
+}
+
+h2 {
+    color: white;
+}
+
 li {
     flex: 1;
+}
+
+p {
+    color: var(--transparent-white);
 }
 
 ul {
     list-style-type: none;
 }
 
+.sedans-category {
+    background-color: var(--gold-500);
+}
+
+.sedans-category a {
+    color: var(--gold-500);
+}
+
+.suvs-category {
+    background-color: var(--cyan-800);
+}
+
+.suvs-category a {
+    color: var(--cyan-800);
+}
+
+.luxury-category {
+    background-color: var(--green-950);
+}
+
+.luxury-category a {
+    color: var(--green-950);
+}
 
 /* =================
     Attribution
