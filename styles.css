@@ -11,6 +11,10 @@
     box-sizing: border-box;
 }
 
+/* =================
+    Typography 
+   ================= */
+
 body {
     min-height: 100vh;
     font-family: "Lexend Deca", sans-serif;
@@ -22,9 +26,47 @@ h2 {
     font-weight: 700;
 }
 
+
 p {
     font-size: 0.938rem; /* 15px */
 }
+
+
+/* =================
+    Flex containers
+   ================= */
+
+body, ul {
+    display: flex;
+    flex-direction: column;
+}
+
+/* =================
+    Main content
+   ================= */
+
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* =================
+    List
+   ================= */
+
+li {
+    flex: 1;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+/* =================
+    Attribution
+   ================= */
 
 .attribution {
     font-size: 0.6875rem; /* 11px */
