@@ -76,6 +76,8 @@ p {
 
 ul {
     list-style-type: none;
+    width: 325px;
+    padding: 0;
 }
 
 .sedans-category {
