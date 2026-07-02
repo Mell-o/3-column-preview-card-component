@@ -68,6 +68,7 @@ h2 {
 
 li {
     flex: 1;
+    padding: 2.5em 3em;
 }
 
 p {
