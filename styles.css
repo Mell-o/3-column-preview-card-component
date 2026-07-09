@@ -21,6 +21,7 @@ body {
     font-weight: 400;
 }
 
+
 h2 {
     font-family: "Big Shoulders", sans-serif;
     font-weight: 700;
@@ -59,7 +60,7 @@ body {
 a {
     background-color: white;
     text-decoration: none;
-    padding: 0.875em 1.75em; /* 14px 28px*/
+    padding: 0.875em 1.75em; /* 14px 28px */
     border-radius: 1.5em; /* 24px */
 }
 
@@ -83,6 +84,8 @@ ul {
     list-style-type: none;
     width: 325px;
     padding: 0;
+    border-radius: 0.5em; /* 8px */
+    overflow: hidden;
 }
 
 .sedans-category {
