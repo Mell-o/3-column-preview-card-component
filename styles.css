@@ -75,6 +75,8 @@ li {
 
 p {
     color: var(--transparent-white);
+    line-height: 1.8;
+    margin: 0 0 2.25em 0; /* 36px */
 }
 
 ul {
