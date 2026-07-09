@@ -59,8 +59,8 @@ body {
 a {
     background-color: white;
     text-decoration: none;
-    padding: 0.5em 1em;
-    border-radius: 18px;
+    padding: 0.875em 1.75em; /* 14px 28px*/
+    border-radius: 1.5em; /* 24px */
 }
 
 h2 {
