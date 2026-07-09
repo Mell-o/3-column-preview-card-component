@@ -70,12 +70,13 @@ h2 {
 
 li {
     flex: 1;
-    padding: 2.5em 3em;
+    padding: 3em 3em 4em 3em;
+    border: red dotted 1px;
 }
 
 p {
     color: var(--transparent-white);
-    line-height: 1.8;
+    line-height: 1.5;
     margin: 0 0 2.25em 0; /* 36px */
 }
 
