@@ -24,6 +24,7 @@ body {
 h2 {
     font-family: "Big Shoulders", sans-serif;
     font-weight: 700;
+    font-size: 2.25em; /* 36px */
 }
 
 
@@ -64,6 +65,7 @@ a {
 
 h2 {
     color: white;
+    text-transform: uppercase;
 }
 
 li {
