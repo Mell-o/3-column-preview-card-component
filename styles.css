@@ -57,7 +57,7 @@ body {
     List
    ================= */
 
-a {
+li > a {
     background-color: white;
     text-decoration: none;
     padding: 0.875em 1.75em; /* 14px 28px */
@@ -71,7 +71,7 @@ h2 {
 
 li {
     flex: 1;
-    padding: 3em 3em 4em 3em;
+    padding: 3em 3em 4em;
 }
 
 p {
